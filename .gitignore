@@ -90,5 +90,5 @@ sw.*
 *.swp
 
 # 博客模板避免提交的文件
-/public
+/blog
 .temp

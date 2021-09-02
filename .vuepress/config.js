@@ -6,7 +6,7 @@ const recordConfig = require('./recordConfig')
 module.exports = {
   title: '窗外放晴的博客',
   description: '书山有路，学海无涯',
-  dest: 'public',
+  dest: 'blog',
   base: '/',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
